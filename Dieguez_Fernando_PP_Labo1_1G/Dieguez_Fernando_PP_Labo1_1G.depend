@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1621038757 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"ui.h"
+	"inputs.h"
+	"categoria.h"
+	"cliente.h"
+	"alquiler.h"
+
+1621029434 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\date.c
+	<stdio.h>
+	"date.h"
+	"inputs.h"
+
+1621029422 c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\date.h
+
+1621029388 c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\inputs.h
+	"date.h"
+
+1621035844 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+	"ui.h"
+
+1621038441 c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\ui.h
+
+1621038495 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\ui.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validations.h"
+	"ui.h"
+
+1621029579 c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\validations.h
+
+1621029598 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validations.h"
+
+1621033277 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\categoria.c
+	<stdio.h>
+	<string.h>
+	"datawarehouse.h"
+	"categoria.h"
+	"inputs.h"
+	"ui.h"
+
+1621033026 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\juego.c
+	"juego.h"
+	"datawarehouse.h"
+
+1621029967 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\fecha.c
+
+1621036197 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\datawarehouse.c
+	"date.h"
+
+1621031628 c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\juego.h
+
+1621036164 c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\datawarehouse.h
+	"date.h"
+
+1621033597 c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\categoria.h
+
+1621037814 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\cliente.c
+	<ctype.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"inputs.h"
+	"ui.h"
+	"categoria.h"
+
+1621037037 c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"date.h"
+	"categoria.h"
+
+1621038405 source:c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\alquiler.c
+	"alquiler.h"
+	"datawarehouse.h"
+	"ui.h"
+
+1621038346 c:\users\ferna\desktop\parciallabo\dieguez_fernando_pp_labo1_1g\dieguez_fernando_pp_labo1_1g\alquiler.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"date.h"
+	"cliente.h"
+	"juego.h"
+
